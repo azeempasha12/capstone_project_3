@@ -76,7 +76,7 @@ const PreviewPage = () => {
         </div>
       </div>
       
-      <div className="file-name-container" style={{ flex: '1', marginLeft: '20px', alignContent:'center', marginLeft: "80px" }}>
+      <div className="file-name-container" style={{ flex: '1', alignContent:'center', marginLeft: "80px" }}>
         <label htmlFor="fileName" style={{ fontFamily: "sans-serif", fontWeight: "bold" }}>Create file name</label><br />
         <input style={{ height: "30px", width: "150px", marginTop: "15px" }} id='fileName' ref={inputRef} type="text" placeholder="Enter file name" required />
         <div style={{ marginTop: "20px" }}>
@@ -91,7 +91,6 @@ const PreviewPage = () => {
             .file-name-container {
               flex: 1 1 100%;
               max-width: 100%;
-              margin-left: 0;
               margin-top: 20px;
               text-align: center;
               

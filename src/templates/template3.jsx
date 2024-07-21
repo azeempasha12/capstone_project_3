@@ -99,13 +99,7 @@ const Template3 = ({ previewMode = false, data = {} }) => {
                   </Typography>
                   <Typography variant="body1">Description of the role and responsibilities.</Typography>
                 </Box>
-                {/* <Box mb={2}>
-                  <Typography variant="body1" fontWeight="bold" color='green'>Software Engineer at XYZ Inc</Typography>
-                  <Typography variant="body2" color="textSecondary">January 2018 - May 2020</Typography>
-                  <Typography variant="body1">
-                    Description of the role and responsibilities.
-                  </Typography>
-                </Box> */}
+              
               </Box>
             </Grid>
 

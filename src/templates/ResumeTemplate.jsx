@@ -4,9 +4,6 @@ import  Template2  from "./template2"
 import Template3  from "./template3"
 import { Container,Grid,} from "@mui/material"
 
-
-
-
 export default function ResumeTemplatesHomePage(){
 
     return(

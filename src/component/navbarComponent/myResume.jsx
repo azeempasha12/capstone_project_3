@@ -1,10 +1,10 @@
 import React from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import { Button, Card, CardContent, Typography } from '@mui/material';
-import  deleteTemplate  from '../../features/resume/resumeSlices'; // Ensure the correct import
+import  deleteTemplate  from '../../features/resume/resumeSlices'; 
 
 function MyResume() {
-  const savedTemplates = useSelector(state => state.resume.savedTemplates || []); // Provide a default empty array
+  const savedTemplates = useSelector(state => state.resume.savedTemplates || []);
   const dispatch = useDispatch();
 
   const handleDelete = (id) => {
