@@ -44,4 +44,6 @@ Azeem Pasha (Individual)
 Website Link
 AlmaBetter Front-End Capstone Project: https://capstone-project-3-ncfn.vercel.app/
 
+*Google doc link*: 
+https://docs.google.com/document/d/1s1rAz5mNdbsS1vSnAukm_mfCjnUrTKI6e9vhldkIVOM/edit?usp=sharing
 - Thank you for choosing our Resume Builder Website. Happy resume coding! 📄✨
